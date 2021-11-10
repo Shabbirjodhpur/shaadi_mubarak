@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "./static/css/main.58ab83ca.chunk.css",
+    "main.js": "./static/js/main.0b549b90.chunk.js",
+    "main.js.map": "./static/js/main.0b549b90.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.e3300a0b.js",
+    "runtime-main.js.map": "./static/js/runtime-main.e3300a0b.js.map",
+    "static/js/2.cf92c1f4.chunk.js": "./static/js/2.cf92c1f4.chunk.js",
+    "static/js/2.cf92c1f4.chunk.js.map": "./static/js/2.cf92c1f4.chunk.js.map",
+    "static/js/3.e21231a7.chunk.js": "./static/js/3.e21231a7.chunk.js",
+    "static/js/3.e21231a7.chunk.js.map": "./static/js/3.e21231a7.chunk.js.map",
+    "index.html": "./index.html",
+    "static/css/main.58ab83ca.chunk.css.map": "./static/css/main.58ab83ca.chunk.css.map",
+    "static/js/2.cf92c1f4.chunk.js.LICENSE.txt": "./static/js/2.cf92c1f4.chunk.js.LICENSE.txt",
+    "static/media/Abbas Mamka.f041be7b.mp4": "./static/media/Abbas Mamka.f041be7b.mp4",
+    "static/media/Abduttayeb Kanchwala.f18da811.mp4": "./static/media/Abduttayeb Kanchwala.f18da811.mp4",
+    "static/media/Ahmed Vadnagar.7a6b1c84.mp4": "./static/media/Ahmed Vadnagar.7a6b1c84.mp4",
+    "static/media/Aliasger Kanchwala.cbcb0c0e.mp4": "./static/media/Aliasger Kanchwala.cbcb0c0e.mp4",
+    "static/media/Hatim Dahod.86341ed8.mp4": "./static/media/Hatim Dahod.86341ed8.mp4",
+    "static/media/Hussain eranpurwala.5a25d81b.mp4": "./static/media/Hussain eranpurwala.5a25d81b.mp4",
+    "static/media/Mohammed Bhiwandiwala.bc8ce4d1.mp4": "./static/media/Mohammed Bhiwandiwala.bc8ce4d1.mp4",
+    "static/media/Murtaza sidhpurwala.a568e831.mp4": "./static/media/Murtaza sidhpurwala.a568e831.mp4",
+    "static/media/Surprise.ff161c5f.mp4": "./static/media/Surprise.ff161c5f.mp4",
+    "static/media/aboutus.b550507a.svg": "./static/media/aboutus.b550507a.svg",
+    "static/media/c1.334c503d.png": "./static/media/c1.334c503d.png",
+    "static/media/c2.3afc85d0.png": "./static/media/c2.3afc85d0.png",
+    "static/media/c3.240c9696.png": "./static/media/c3.240c9696.png",
+    "static/media/carousel1.72c52020.jpg": "./static/media/carousel1.72c52020.jpg",
+    "static/media/home.66b71da2.svg": "./static/media/home.66b71da2.svg",
+    "static/media/logo.2c7b00ca.jpg": "./static/media/logo.2c7b00ca.jpg",
+    "static/media/murtaza Bandeali.cd24d9a2.mp4": "./static/media/murtaza Bandeali.cd24d9a2.mp4",
+    "static/media/review.67fb423a.svg": "./static/media/review.67fb423a.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e3300a0b.js",
+    "static/js/2.cf92c1f4.chunk.js",
+    "static/css/main.58ab83ca.chunk.css",
+    "static/js/main.0b549b90.chunk.js"
+  ]
+}
